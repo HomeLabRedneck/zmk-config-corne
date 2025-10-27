@@ -1,0 +1,22 @@
+# Ignore VS Code workspace files and settings
+*.code-workspace
+.vscode/
+
+# Ignore build artifacts and firmware outputs
+build/
+out/
+target/
+*.elf
+*.bin
+*.hex
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Explicit workspace file
+zmk-config-corne.code-workspace
