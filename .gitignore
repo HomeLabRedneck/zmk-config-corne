@@ -19,4 +19,4 @@ __pycache__/
 *.pyc
 
 # Explicit workspace file
-zmk-config-corne.code-workspace
+zmk-config-corne.code-workspace 
